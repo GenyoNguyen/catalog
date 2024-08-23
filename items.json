@@ -1,0 +1,99 @@
+[
+    {
+        "Title": "Angels & Demons",
+        "Type": "Book",
+        "Contributor": {
+            "Author": "Dan Brown"
+        },
+        "Subject": "Mystery-thriller",
+        "ISBN": "9780552161268",
+        "DDS": "M546",
+        "UPC": "143964032434"
+    },
+    {
+        "Title": "\u0110\u1eafc nh\u00e2n t\u00e2m",
+        "Type": "Book",
+        "Contributor": {
+            "Author": "Dale Carnegie"
+        },
+        "Subject": "Self-help",
+        "ISBN": "1439167346",
+        "DDS": "S304",
+        "UPC": "249534632053"
+    },
+    {
+        "Title": "5 centimet tr\u00ean gi\u00e2y",
+        "Type": "Book",
+        "Contributor": {
+            "Author": "Shinkai Makoto"
+        },
+        "Subject": "Romance",
+        "ISBN": "9786048905750",
+        "DDS": "R304",
+        "UPC": "8936049524905"
+    },
+    {
+        "Title": "The Last Outpost",
+        "Type": "DVD",
+        "Contributor": {
+            "Director": "Lewis R. Foster",
+            "Actor": "Cary Grant, Claude Rains, Gertrude Michael, Margaret Swope, Kathleen Burke"
+        },
+        "Genre": "Military & War/World War I, Military & War/Drama",
+        "ASIN": "B0047O2FP8",
+        "UPC": "4302912353820"
+    },
+    {
+        "Title": "Dune: Part Two (Blu-ray + Digital)",
+        "Type": "CD",
+        "Contributor": {
+            "Director": "Denis Villeneuve",
+            "Actor": "Josh Brolin, Austin Butler, Timoth\u00e9e Chalamet, Rebecca Ferguson, Zendaya"
+        },
+        "Genre": "Science Fiction",
+        "ASIN": "B0CW361P54",
+        "UPC": "1937583019283"
+    },
+    {
+        "Title": "THE FILM (\u5b8c\u5168\u751f\u7523\u9650\u5b9a\u76e4) [Blu-ray]",
+        "Type": "CD",
+        "Contributor": {
+            "Artist": "YOASOBI"
+        },
+        "Genre": "Music",
+        "ASIN": "B09R1P1J1R",
+        "UPC": "1937583019283"
+    },
+    {
+        "Title": "Nh\u1eefng ng\u00e0y cu\u1ed1i c\u1ee7a d\u00f2ng Mekong h\u00f9ng v\u0129",
+        "Type": "Book",
+        "Contributor": {
+            "Author": "Brian Eyler"
+        },
+        "Subject": "Research",
+        "ISBN": "9786045680322",
+        "DDS": "R105",
+        "UPC": "8936144200834"
+    },
+    {
+        "Title": "L\u1eadp tr\u00ecnh vi\u00ean - Ph\u00f9 th\u1ee7y th\u1ebf gi\u1edbi m\u1ea1ng",
+        "Type": "Book",
+        "Contributor": {
+            "Author": "Jane (J.M.) Bedell"
+        },
+        "Subject": "Self-help",
+        "ISBN": "9786047757091",
+        "DDS": "S502",
+        "UPC": "9786047757091"
+    },
+    {
+        "Title": "Technology Magazine - April 2024",
+        "Type": "Magazine",
+        "Contributor": {
+            "Editor": "Technology Magazine"
+        },
+        "Volume": "I",
+        "Issue": "1",
+        "UPC": "5493028594028"
+    }
+]
